@@ -11,3 +11,5 @@ This project explores:
 > Can balancing the dataset reduce disparities?
 
 > Do different CNN architectures behave differently in terms of fairness?
+
+## Dataset
