@@ -5,6 +5,9 @@ This project investigates whether convolutional neural networks (CNNs) used for 
 
 This project explores:
 > Do CNN-based skin cancer classifiers show tone-based bias?
+
 > How does dataset imbalance affect fairness?
+
 > Can balancing the dataset reduce disparities?
+
 > Do different CNN architectures behave differently in terms of fairness?
