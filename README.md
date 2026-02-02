@@ -16,6 +16,12 @@ Images were sourced from the ISIC Archive, using only samples with:
 >Fitzpatrick Skin Type (FST) annotations
 
 Two datasets were created:
-1. Imbalanced dataset – Reflecting real-world distribution (more light skin & benign cases)
+1. Imbalanced dataset – Reflecting real-world distribution (more light skin & benign cases).
 
-2. Balanced dataset – Equalized across skin tones and diagnosis classes to study fairness impact
+2. Balanced dataset – Equalized across skin tones and diagnosis classes to study fairness impact.
+
+## Models Compared
+
+1. Custom CNN: A convolutional neural network built specifically for this project, inspired by prior dermatology AI research.
+2. VGG16 (Transfer Learning): A pretrained VGG16 model fine-tuned for skin lesion classification, leveraging transfer learning for improved feature extraction.
+
